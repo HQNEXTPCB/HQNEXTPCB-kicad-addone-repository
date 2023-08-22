@@ -1,0 +1,33 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "HQ NextPCB Active Manufacturing",
+            "description": "A NextPCB Active Manufacturing plugin for KiCAD",
+            "description_full": "Query price and place order",
+            "identifier": "com.github.HQNEXTPCB.HQ-NextPCB-Active-Manufacturing",
+            "type": "plugin",
+            "author": {
+                "name": "SYSUeric66",
+                "contact": {
+                    "email": "jzzhuang666@gmail.com",
+                    "Github": "https://github.com/SYSUeric66"
+                }
+            },
+            "maintainer": {
+                "name": "SYSUeric66",
+                "contact": {
+                    "email": "jzzhuang666@gmail.com",
+                    "Github": "https://github.com/SYSUeric66"
+                }
+            },
+            "license": "MIT",
+            "resources": {
+                "Github": "https://github.com/HQNEXTPCB/HQ-NextPCB-Active-Manufacturing"
+            },
+            "versions": [
+            
+            ]
+        }
+    ]
+}
