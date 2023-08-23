@@ -7,17 +7,17 @@
             "Github": "https://github.com/SYSUeric66"
         }
     },
-    "name": "HQ NEXTPCB kicad plugin repository",
+    "name": "HQ NEXTPCB kicad addone repository",
     "packages": {
         "sha256": "",
         "update_time_utc": "",
         "update_timestamp": ,
-        "url": "https://raw.githubusercontent.com/HQNEXTPCB/HQNEXTPCB-kicad-plugin-repository/main/packages.json"
+        "url": "https://raw.githubusercontent.com/HQNEXTPCB/HQNEXTPCB-kicad-addone-repository/main/packages.json"
     },
     "resources": {
         "sha256": "",
         "update_time_utc": "",
         "update_timestamp": ,
-        "url": "https://github.com/HQNEXTPCB/HQNEXTPCB-kicad-plugin-repository/raw/main/resources.zip"
+        "url": "https://github.com/HQNEXTPCB/HQNEXTPCB-kicad-addone-repository/raw/main/resources.zip"
     }
 }
