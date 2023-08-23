@@ -1,0 +1,23 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "SYSUeric66",
+        "contact": {
+            "email": "jzzhuang666@gmail.com",
+            "Github": "https://github.com/SYSUeric66"
+        }
+    },
+    "name": "HQ NEXTPCB kicad plugin repository",
+    "packages": {
+        "sha256": "",
+        "update_time_utc": "",
+        "update_timestamp": ,
+        "url": "https://raw.githubusercontent.com/HQNEXTPCB/HQNEXTPCB-kicad-plugin-repository/main/packages.json"
+    },
+    "resources": {
+        "sha256": "",
+        "update_time_utc": "",
+        "update_timestamp": ,
+        "url": "https://github.com/HQNEXTPCB/HQNEXTPCB-kicad-plugin-repository/raw/main/resources.zip"
+    }
+}
