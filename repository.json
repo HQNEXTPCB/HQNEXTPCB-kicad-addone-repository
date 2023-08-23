@@ -8,15 +8,15 @@
     },
     "name": "HQ NEXTPCB repository for KiCad addone ",
     "packages": {
-        "sha256": "79097ef525c92f989321404a9126d290591193fc810e27a32c803072087fd96d",
-        "update_time_utc": "2023-08-18 07:06:31",
-        "update_timestamp": 1692342391,
+        "sha256": "fecc1e85ad5477f8b40bbaec785d478c810459de03bbbf2d110e2eb3878adfcf",
+        "update_time_utc": "2023-08-23 08:05:52",
+        "update_timestamp": 1692777952,
         "url": "https://raw.githubusercontent.com/HQNEXTPCB/HQNEXTPCB-kicad-addone-repository/main/packages.json"
     },
     "resources": {
-        "sha256": "1f986b5025c41ba391dbc4c6e47578b1a6426c757a7c1421b517001c68c8bb72",
-        "update_time_utc": "2023-08-18 07:06:31",
-        "update_timestamp": 1692342391,
+        "sha256": "fca9570a1ea4cdcaf6641d049a969b10c77c1d0437effca6eea1bfec776e6626",
+        "update_time_utc": "2023-08-23 08:05:52",
+        "update_timestamp": 1692777952,
         "url": "https://github.com/HQNEXTPCB/HQNEXTPCB-kicad-addone-repository/raw/main/resources.zip"
     }
 }
