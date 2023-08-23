@@ -3,21 +3,20 @@
     "maintainer": {
         "name": "SYSUeric66",
         "contact": {
-            "email": "jzzhuang666@gmail.com",
-            "Github": "https://github.com/SYSUeric66"
+            "email": "jzzhuang666@gmail.com"
         }
     },
-    "name": "HQ NEXTPCB kicad addone repository",
+    "name": "HQ NEXTPCB repository for KiCad addone ",
     "packages": {
-        "sha256": "",
-        "update_time_utc": "",
-        "update_timestamp": ,
+        "sha256": "79097ef525c92f989321404a9126d290591193fc810e27a32c803072087fd96d",
+        "update_time_utc": "2023-08-18 07:06:31",
+        "update_timestamp": 1692342391,
         "url": "https://raw.githubusercontent.com/HQNEXTPCB/HQNEXTPCB-kicad-addone-repository/main/packages.json"
     },
     "resources": {
-        "sha256": "",
-        "update_time_utc": "",
-        "update_timestamp": ,
+        "sha256": "1f986b5025c41ba391dbc4c6e47578b1a6426c757a7c1421b517001c68c8bb72",
+        "update_time_utc": "2023-08-18 07:06:31",
+        "update_timestamp": 1692342391,
         "url": "https://github.com/HQNEXTPCB/HQNEXTPCB-kicad-addone-repository/raw/main/resources.zip"
     }
 }
