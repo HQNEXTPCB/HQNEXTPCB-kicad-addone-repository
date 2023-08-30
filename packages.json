@@ -32,6 +32,15 @@
                     "download_size": 23905,
                     "download_url": "https://github.com/HQNEXTPCB/HQ-NextPCB-Active-Manufacturing/releases/download/2023.08.23/KiCAD-PCM-2023.08.23.zip",
                     "install_size": 94490
+                },
+                {
+                    "version": "2023.08.30",
+                    "status": "testing",
+                    "kicad_version": "6.0",
+                    "download_sha256": "02f43041511224849029c68cf61744ecb4348db368242a6afc4b6cd232a6e418",
+                    "download_size": 23980,
+                    "download_url": "https://github.com/HQNEXTPCB/HQ-NextPCB-Active-Manufacturing/releases/download/2023.08.30/KiCAD-PCM-2023.08.30.zip",
+                    "install_size": 97134
                 }
             ]
         }
